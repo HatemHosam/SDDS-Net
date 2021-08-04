@@ -10,4 +10,4 @@ The scripts provided are for models evaluation on CITYSCAPES and NYU depth V2 be
 
 Weights files are available at:  <br />
 
-NYU depth V2 groudtruth depth maps and semantic segmentation maps are saved in sepcial formats for easier use with the provided code, they are available at this link: https://drive.google.com/drive/u/2/folders/1tviXcOM7ToxNjL1CbztsxVqs70l6adqY <br />
+NYU depth V2 groudtruth depth maps and semantic segmentation maps are saved in custom formats for easier use with the provided code, they are available at this link: https://drive.google.com/drive/u/2/folders/1tviXcOM7ToxNjL1CbztsxVqs70l6adqY <br />
